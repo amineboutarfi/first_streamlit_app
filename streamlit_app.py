@@ -70,9 +70,4 @@ if streamlit.button('Add a Fruit To The List'):
     streamlit.write(back_from_function)
     
     
-    
-
-streamlit.write('Thanks For Adding ', add_fruit_input)
-
-
-
+   
